@@ -1,4 +1,4 @@
-# PiIZZA-SALES-REPORT-EXCEL
+# PIZZA-SALES-REPORT-EXCEL
 About Me:
 I am Saurabh Ahuja, with expertise in connecting MySQL and Excel for data analysis and insights.
 Project Overview:
